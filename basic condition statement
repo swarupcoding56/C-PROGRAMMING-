@@ -1,1 +1,10 @@
+#include<stdio.h>
+int main(){
+int n;
+printf("enter the digit");
+scanf("%d",&n);
+if(n>10)printf("you are a coder with a good knowledge");
+else printf("you are not a good coder");
+return 0;
+}
 
